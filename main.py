@@ -233,7 +233,7 @@ def preview_song(chords, chords_var, drums_var, noise_var):
 
 # Initialize GUI
 root = tk.Tk()
-root.title("automatic shallot v0.3)
+root.title("automatic shallot v0.3")
 
 frame = ttk.Frame(root, padding="10")
 frame.grid(row=0, column=0, sticky=(tk.W, tk.E, tk.N, tk.S))
